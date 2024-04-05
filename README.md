@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Nitish Pandey! 👋
 
-<!--
-**nitish4393/nitish4393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Eager Data Analyst with proficiency in Excel, SQL, Python, and Power BI. Proven ability to identify trends and translate data insights into actionable recommendations that increased efficiency by 15%. Passionate about leveraging data to drive strategic decision-making.
 
-Here are some ideas to get you started:
+## Technical Skills
+- 💼 *SQL:* Joins, Sub-queries, Views, Window Functions, CTEs
+- 📊 *Power BI:* ETL, Data Modelling, DAX, Power Query, Reports, and Dashboards
+- 🐍 *Python:* Pandas, NumPy, Matplotlib, Seaborn
+- 📈 *Advanced Excel:* Pivot Tables, Lookup Functions, Pivot Charts, Excel Functions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Internship Experience
+### Data Analyst Intern at Ineuron (March 2024 - Present)
+#### Plato’s Pizza Sales Analysis | Power BI
+- Developed a dashboard using Power BI for analyzing pizza sales trends to optimize business strategies.
+- Observed that 61% of pizza orders were for 2 sittings.
+- Provided recommendations for optimizing seating arrangements by increasing tables for 2 people and reducing the number of tables for 4 people resulted in increased sales revenue and improved customer satisfaction.
+
+
+### Certificates
+- 📜 *Bank Customer Churn Analysis | SQL (February 2024)*
+  - Performed the analysis and prediction of bank customer churn to optimize retention strategies using SQL queries including subquery and common table expressions.
+  - Conducted comprehensive analysis to identify 31% of inactive customers with below-average credit scores are at risk of churning.
+  - Enhanced customer retention efforts resulted in a notable decrease in churn rates within the targeted segments.
+
+## Education
+- 🎓 *Full Stack Data Analytics 2.0, Ineuron*
+- 🎓 *Mastering Data Magic: Power BI + Tableau + SQL, Analytics, Udemy*
+- 🎓 *Bachelor of Technology (Civil), 8.67 CGPA (July 2019 - August 2022)*
+  - Ballarpur Institute of Technology, Ballarshah, Chandrapur, Maharashtra
+
+## Portfolio
+🌐 [NovyPro](novyPro_portfolio_link_here)
