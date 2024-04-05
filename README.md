@@ -1,22 +1,34 @@
-# Hi there, I'm Nitish Pandey! 👋
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM__jJ8WYDRIa4uiQ3QRK18Tyz7sAvPPCbA&s)](https://nitish4393.github.io/nitishpandey.github.io/)
+<h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
+<h3 align="center">A Data Analyst enthusiast</h3>
+(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM__jJ8WYDRIa4uiQ3QRK18Tyz7sAvPPCbA&s")
 
-## Summary
-Eager Data Analyst with proficiency in Excel, SQL, Python, and Power BI. Proven ability to identify trends and translate data insights into actionable recommendations that increased efficiency by 15%. Passionate about leveraging data to drive strategic decision-making.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish4393&label=Profile%20views&color=0e75b6&style=flat" alt="nitish4393" /> </p>
 
-## Technical Skills
-- 💼 *SQL:* Joins, Sub-queries, Views, Window Functions, CTEs
-- 📊 *Power BI:* ETL, Data Modelling, DAX, Power Query, Reports, and Dashboards
-- 🐍 *Python:* Pandas, NumPy, Matplotlib, Seaborn
-- 📈 *Advanced Excel:* Pivot Tables, Lookup Functions, Pivot Charts, Excel Functions
+- 🔭 I’m currently working on [Deloitte case study](https://github.com/nitish4393/INeuron_intership)
 
-## Internship Experience
-### Data Analyst Intern at Ineuron (March 2024 - Present)
+- 🌱 I’m currently learning **Python,Statistics**
 
-## Education
-- 🎓 *Full Stack Data Analytics 2.0, Ineuron*
-- 🎓 *Mastering Data Magic: Power BI + Tableau + SQL, Analytics, Udemy*
-- 🎓 *Bachelor of Technology (Civil), 8.67 CGPA (July 2019 - August 2022)*
-  - Ballarpur Institute of Technology, Ballarshah, Chandrapur, Maharashtra
+- 👨‍💻 All of my projects are available at [https://nitish4393.github.io/nitishpandey.github.io/](https://nitish4393.github.io/nitishpandey.github.io/)
 
-## Portfolio
-🌐 [NovyPro](novyPro_portfolio_link_here)
+- 📝 I regularly write articles on [https://medium.com/@vijayhero7777](https://medium.com/@vijayhero7777)
+
+- 💬 Ask me about **SQL, Power BI**
+
+- 📫 How to reach me **https://www.linkedin.com/in/nitish-pandey-482281186/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing](https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nitish pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish pandey" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish4393&show_icons=true&locale=en&layout=compact" alt="nitish4393" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish4393&show_icons=true&locale=en" alt="nitish4393" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish4393&" alt="nitish4393" /></p>
