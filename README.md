@@ -1,4 +1,4 @@
-[![MasterHead](https://www2.deloitte.com/content/dam/insights/us/articles/5014_infusing-data-analytics-and-ai/images/5014_banner.jpg](https://nitish4393.github.io/nitishpandey.github.io/)
+[![MasterHead](https://www2.deloitte.com/content/dam/insights/us/articles/5014_infusing-data-analytics-and-ai/images/5014_banner.jpg]
 <h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM__jJ8WYDRIa4uiQ3QRK18Tyz7sAvPPCbA&s">
