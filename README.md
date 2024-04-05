@@ -11,17 +11,6 @@ Eager Data Analyst with proficiency in Excel, SQL, Python, and Power BI. Proven 
 
 ## Internship Experience
 ### Data Analyst Intern at Ineuron (March 2024 - Present)
-#### Plato’s Pizza Sales Analysis | Power BI
-- Developed a dashboard using Power BI for analyzing pizza sales trends to optimize business strategies.
-- Observed that 61% of pizza orders were for 2 sittings.
-- Provided recommendations for optimizing seating arrangements by increasing tables for 2 people and reducing the number of tables for 4 people resulted in increased sales revenue and improved customer satisfaction.
-
-
-### Certificates
-- 📜 *Bank Customer Churn Analysis | SQL (February 2024)*
-  - Performed the analysis and prediction of bank customer churn to optimize retention strategies using SQL queries including subquery and common table expressions.
-  - Conducted comprehensive analysis to identify 31% of inactive customers with below-average credit scores are at risk of churning.
-  - Enhanced customer retention efforts resulted in a notable decrease in churn rates within the targeted segments.
 
 ## Education
 - 🎓 *Full Stack Data Analytics 2.0, Ineuron*
