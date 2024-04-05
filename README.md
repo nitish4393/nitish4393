@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Python,Statistics**
 
-- 👨‍💻 All of my projects are available at [https://nitish4393.github.io/nitishpandey.github.io/](https://nitish4393.github.io/nitishpandey.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nitish4393.github.io/nitishpandey.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@vijayhero7777](https://medium.com/@vijayhero7777)
+- 📝 I regularly write articles on [MEDIUM](https://medium.com/@vijayhero7777)
 
 - 💬 Ask me about **SQL, Power BI**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nitish-pandey-482281186/**
+- 📫 How to reach me [LInkedin](https://www.linkedin.com/in/nitish-pandey-482281186)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing](https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
