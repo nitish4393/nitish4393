@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-3a748c21b53bf85c6f546320f8776320-pjlq)]
+
 <h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM__jJ8WYDRIa4uiQ3QRK18Tyz7sAvPPCbA&s">
