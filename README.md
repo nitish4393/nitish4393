@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bu.edu/met/files/2020/09/gcda-hero-1200x500.jpg)](https://www.bu.edu/met/files/2020/09/gcda-hero-1200x500.jpg)
+[![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)
 
 <h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
