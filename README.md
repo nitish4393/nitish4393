@@ -1,4 +1,4 @@
-[![MasterHead](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)](https://hgs.cx/wp-content/uploads/2023/07/blog-banner-benefits-of-data-engineering.webp)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/05/52/61/360_F_405526181_yxc75HJCfDxdvw6AWgeMBahkw4Nfu7Oi.jpg)](https://t4.ftcdn.net/jpg/04/05/52/61/360_F_405526181_yxc75HJCfDxdvw6AWgeMBahkw4Nfu7Oi.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
