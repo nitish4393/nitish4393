@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [LInkedin](https://www.linkedin.com/in/nitish-pandey-482281186)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Fp_86KLx3IvAVgjvClGNLps5Bd4PeU37/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1MREI-Mxs1URgTFnp1aUBLWkAqNnYONj1)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
