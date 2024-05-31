@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python,Statistics**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://nitish4393.github.io/nitishpandey.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nitish4393.github.io/nitish.github.io/)
 
 - 📝 I regularly write articles on [MEDIUM](https://medium.com/@vijayhero7777)
 
