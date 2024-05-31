@@ -4,7 +4,7 @@
 <h3 align="center">A Data Analyst enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM__jJ8WYDRIa4uiQ3QRK18Tyz7sAvPPCbA&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish4393&label=Profile%20views&color=0e75b6&style=flat" alt="nitish4393" /> </p>
+
 
 - 🔭 I’m currently working on [Deloitte case study](https://github.com/nitish4393/INeuron_intership)
 
