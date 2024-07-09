@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Deloitte case study](https://github.com/nitish4393/INeuron_intership)
+- 🔭 I’m currently working as a intern Data Analyst at Physics wallah
 
 - 🌱 I’m currently learning **Python,Statistics**
 
