@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working as a intern Data Analyst at Physics wallah
+- 🔭 I’m currently working as a intern Data Analyst at PHYSICS WALLAH
 
 - 🌱 I’m currently learning **Python,Statistics**
 
