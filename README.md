@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [MEDIUM](https://medium.com/@vijayhero7777)
 
-- 💬 Ask me about **SQL, Power BI**
+- 💬 Ask me about **SQL, Python, advance excel, Power BI**
 
 - 📫 How to reach me [LInkedin](https://www.linkedin.com/in/nitish-pandey-482281186)
 
