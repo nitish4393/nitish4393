@@ -1,4 +1,4 @@
-```[![MasterHead](https://simandhareducation-files.s3.ap-south-1.amazonaws.com/img/DA-Landing-Page_Opt2.jpg)](https://simandhareducation-files.s3.ap-south-1.amazonaws.com/img/DA-Landing-Page_Opt2.jpg)```
+
 
 <h1 align="center">Hi 👋, I'm Nitish Pandey</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
