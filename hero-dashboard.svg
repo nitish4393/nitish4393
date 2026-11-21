@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 342" width="900" height="342" role="img" aria-label="Nitish Pandey — Data Analyst Telemetry Dashboard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b16"/>
+      <stop offset="55%" stop-color="#0d1429"/>
+      <stop offset="100%" stop-color="#091124"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="18%" cy="10%" r="48%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="88%" cy="15%" r="44%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="sparkArea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="winBar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#141e38" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#0d1426" stop-opacity="0.92"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#818cf8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="342" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; }
+    .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin: 41px 42px; }
+    .spark { stroke-dasharray: 220; stroke-dashoffset: 220; animation: draw 2s ease-out forwards; }
+    .gauge { stroke-dasharray: 151; stroke-dashoffset: 151; animation: fillGauge 1.8s cubic-bezier(.22,1,.36,1) forwards; }
+    .bar-grow { animation: barGrow 1.4s cubic-bezier(.22,1,.36,1) forwards; transform-origin: bottom; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fillGauge { to { stroke-dashoffset: 5; } }
+    @keyframes barGrow { from { opacity: 0.2; } to { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#clip)">
+    <!-- Base & ambient glows -->
+    <rect width="900" height="342" fill="url(#bg)"/>
+    <rect width="900" height="342" fill="url(#grid)"/>
+    <rect width="900" height="342" fill="url(#glow1)"/>
+    <rect width="900" height="342" fill="url(#glow2)"/>
+    <rect x="0.75" y="0.75" width="898.5" height="340.5" rx="17.5" fill="none" stroke="#818cf8" stroke-opacity="0.24" stroke-width="1.5"/>
+
+    <!-- Top status pill -->
+    <rect x="28" y="26" width="322" height="30" rx="15" fill="#10b981" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.38"/>
+    <circle cx="44" cy="41" r="4.5" fill="#34d399" class="pulse"/>
+    <text x="58" y="45" class="mono" font-size="11.5" font-weight="600" fill="#6ee7b7">GOOGLE · TRUST &amp; SAFETY · HYDERABAD, IN</text>
+
+    <!-- Award pill top right -->
+    <rect x="676" y="26" width="196" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.4"/>
+    <text x="774" y="45" text-anchor="middle" class="mono" font-size="11.5" font-weight="600" fill="#fde68a">★ SILVER GOOGLE AI AWARD</text>
+
+    <!-- Name & subtitle -->
+    <text x="28" y="102" class="sans" font-size="38" font-weight="800" fill="#f8fafc" letter-spacing="-0.8">Nitish Pandey</text>
+    <text x="292" y="100" class="sans" font-size="19" font-weight="600" fill="url(#accentGrad)">— Data Analyst</text>
+    <text x="28" y="128" class="sans" font-size="14" fill="#94a3b8">SQL &amp; BigQuery Pipelines  ·  Looker &amp; Power BI Dashboards  ·  LLM Evaluation &amp; AI-Agent Workflows</text>
+
+    <!-- Divider accent line -->
+    <rect x="28" y="146" width="844" height="1" fill="#818cf8" fill-opacity="0.18"/>
+
+    <!-- CARD 1: P0/P1 Resolution Time -->
+    <g transform="translate(28, 164)">
+      <rect width="199" height="150" rx="14" fill="url(#cardBg)" stroke="#818cf8" stroke-opacity="0.22"/>
+      <text x="14" y="24" class="mono" font-size="10" font-weight="600" fill="#94a3b8">P0/P1 RESOLUTION</text>
+      <rect x="146" y="12" width="40" height="18" rx="9" fill="#10b981" fill-opacity="0.18"/>
+      <text x="166" y="24" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#34d399">-72%</text>
+      <text x="14" y="54" class="sans" font-size="22" font-weight="800" fill="#f8fafc">7–10 <tspan font-size="13" font-weight="500" fill="#94a3b8">days</tspan></text>
+      <text x="14" y="72" class="mono" font-size="10" fill="#64748b">FROM 25–30 DAYS</text>
+      <!-- Before / After bars -->
+      <rect x="14" y="86" width="171" height="8" rx="4" fill="#1e293b"/>
+      <rect x="14" y="86" width="160" height="8" rx="4" fill="#f87171" fill-opacity="0.85"/>
+      <rect x="14" y="102" width="171" height="8" rx="4" fill="#1e293b"/>
+      <rect x="14" y="102" width="52" height="8" rx="4" fill="#34d399" class="bar-grow"/>
+      <text x="14" y="132" class="sans" font-size="11" fill="#94a3b8">Ads pre-launch dash · <tspan fill="#e2e8f0" font-weight="600">8 teams</tspan></text>
+    </g>
+
+    <!-- CARD 2: Access Policies Pipeline -->
+    <g transform="translate(243, 164)">
+      <rect width="199" height="150" rx="14" fill="url(#cardBg)" stroke="#818cf8" stroke-opacity="0.22"/>
+      <text x="14" y="24" class="mono" font-size="10" font-weight="600" fill="#94a3b8">ACCESS POLICIES</text>
+      <rect x="129" y="12" width="57" height="18" rx="9" fill="#22d3ee" fill-opacity="0.15"/>
+      <text x="157.5" y="24" text-anchor="middle" class="mono" font-size="9.5" font-weight="700" fill="#67e8f9">SCD2</text>
+      <text x="14" y="54" class="sans" font-size="22" font-weight="800" fill="#f8fafc">8,000+</text>
+      <!-- Animated Sparkline -->
+      <g transform="translate(14, 66)">
+        <path d="M0,44 L26,38 L52,40 L78,28 L104,30 L130,18 L156,11 L171,5 L171,48 L0,48 Z" fill="url(#sparkArea)"/>
+        <path class="spark" d="M0,44 L26,38 L52,40 L78,28 L104,30 L130,18 L156,11 L171,5" fill="none" stroke="#22d3ee" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle r="3.8" fill="#67e8f9">
+          <animateMotion dur="3.4s" repeatCount="indefinite" path="M0,44 L26,38 L52,40 L78,28 L104,30 L130,18 L156,11 L171,5"/>
+        </circle>
+      </g>
+      <text x="14" y="132" class="sans" font-size="11" fill="#94a3b8"><tspan fill="#e2e8f0" font-weight="600">7-table</tspan> model · <tspan fill="#e2e8f0" font-weight="600">5 SQL</tspan> queries</text>
+    </g>
+
+    <!-- CARD 3: 4-Model LLM Benchmark -->
+    <g transform="translate(458, 164)">
+      <rect width="199" height="150" rx="14" fill="url(#cardBg)" stroke="#818cf8" stroke-opacity="0.22"/>
+      <text x="14" y="24" class="mono" font-size="10" font-weight="600" fill="#94a3b8">LLM BENCHMARK (4)</text>
+      <text x="14" y="52" class="sans" font-size="18.5" font-weight="800" fill="#f8fafc">~90% P · ~93% R</text>
+      <!-- 4-model bar chart + pass line -->
+      <g transform="translate(16, 64)">
+        <line x1="0" y1="12" x2="167" y2="12" stroke="#34d399" stroke-width="1.2" stroke-dasharray="4 3"/>
+        <text x="167" y="9" text-anchor="end" class="mono" font-size="8.5" fill="#34d399">PASS BAR</text>
+        <rect x="6" y="26" width="28" height="24" rx="4" fill="#334155"/>
+        <rect x="46" y="20" width="28" height="30" rx="4" fill="#334155"/>
+        <rect x="86" y="18" width="28" height="32" rx="4" fill="#475569"/>
+        <rect x="126" y="6" width="32" height="44" rx="4" fill="url(#winBar)" class="bar-grow"/>
+      </g>
+      <text x="14" y="132" class="sans" font-size="11" fill="#94a3b8"><tspan fill="#e2e8f0" font-weight="600">κ ~0.83</tspan> · ~1,900 ads · 6 policies</text>
+    </g>
+
+    <!-- CARD 4: AI-Agent Turnaround -->
+    <g transform="translate(673, 164)">
+      <rect width="199" height="150" rx="14" fill="url(#cardBg)" stroke="#818cf8" stroke-opacity="0.22"/>
+      <text x="14" y="24" class="mono" font-size="10" font-weight="600" fill="#94a3b8">TESTING TURNAROUND</text>
+      <text x="14" y="54" class="sans" font-size="22" font-weight="800" fill="#f8fafc">25–30 <tspan font-size="13" font-weight="500" fill="#94a3b8">min</tspan></text>
+      <!-- Radial gauge -->
+      <g transform="translate(14, 65)">
+        <circle cx="28" cy="28" r="24" fill="none" stroke="#1e293b" stroke-width="5.5"/>
+        <circle class="gauge" cx="28" cy="28" r="24" fill="none" stroke="url(#accentGrad)" stroke-width="5.5" stroke-linecap="round" transform="rotate(-90 28 28)"/>
+        <text x="28" y="32" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f8fafc">99%</text>
+        <text x="66" y="22" class="sans" font-size="11.5" font-weight="700" fill="#e2e8f0">1-Step AI Agent</text>
+        <text x="66" y="38" class="sans" font-size="10.5" fill="#94a3b8">From 7–10 days</text>
+      </g>
+      <text x="14" y="132" class="sans" font-size="11" fill="#94a3b8">Self-serve · no prod access</text>
+    </g>
+  </g>
+</svg>
